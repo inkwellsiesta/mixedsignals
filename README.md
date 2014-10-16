@@ -1,4 +1,4 @@
-mixedsignals
+![mixedsignals](/images/logo.png)
 ============
 
 # Depedencies
